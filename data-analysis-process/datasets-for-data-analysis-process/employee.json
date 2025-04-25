@@ -1,0 +1,42 @@
+[
+    {
+        "Employee_ID": 201,
+        "Name": "Alice Johnson",
+        "Age": 29,
+        "Department": "Finance",
+        "Salary": 55000,
+        "Remote_Work": true
+    },
+    {
+        "Employee_ID": 202,
+        "Name": "Bob Smith",
+        "Age": 35,
+        "Department": "Engineering",
+        "Salary": 78000,
+        "Remote_Work": false
+    },
+    {
+        "Employee_ID": 203,
+        "Name": "Charlie Evans",
+        "Age": 41,
+        "Department": "Marketing",
+        "Salary": 62000,
+        "Remote_Work": true
+    },
+    {
+        "Employee_ID": 204,
+        "Name": "Diana Lee",
+        "Age": 27,
+        "Department": "Human Resources",
+        "Salary": 50000,
+        "Remote_Work": false
+    },
+    {
+        "Employee_ID": 205,
+        "Name": "Ethan Brown",
+        "Age": 32,
+        "Department": "IT Support",
+        "Salary": 58000,
+        "Remote_Work": true
+    }
+]

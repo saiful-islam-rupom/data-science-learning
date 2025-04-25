@@ -1,0 +1,11 @@
+Customer_ID	Name	Age	Country	Product	Purchase_Amount
+101	John Doe	25	USA	Laptop	1200
+102	Jane Smith	30	Canada	Smartphone	800
+103	Ali Khan	28	UAE	Headphones	150
+104	Sophia Lee	35	UK	Tablet	400
+105	Maria Gonzalez	22	Mexico	Smartwatch	250
+106	David Brown	40	Australia	Monitor	300
+107	Li Wei	29	China	Keyboard	100
+108	Aisha Yusuf	31	Nigeria	Mouse	50
+109	Hans Müller	33	Germany	Printer	200
+110	Emma Dubois	27	France	Charger	30
